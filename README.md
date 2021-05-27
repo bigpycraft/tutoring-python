@@ -16,9 +16,9 @@
 <hr>
 
 ## Table of Contents
-- Sect1. Python Programming Basics
-- Sect2. Python Packages and Modules
-- Sect3. Data Processing and Analysis
+- Python Programming Basics
+- Python Packages and Modules
+- Data Processing and Analysis
 
 <hr>
 
