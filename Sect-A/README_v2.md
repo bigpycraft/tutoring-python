@@ -62,7 +62,7 @@
 [code-11]: ./code/PYT_SECT11_rc1.md                            "Go Code-11"
 
 
-[prac-01]: ./code/과제1_Turtle_모양그리기.pdf                  "Go 과제-01"
+[prac-01]: ./practice/과제1_Turtle_모양그리기.pdf              "Go 과제-01"
 
 
 <hr>
