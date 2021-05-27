@@ -15,13 +15,14 @@
 
 <hr>
 
-## 파이썬 입문
-- W1 : Python Overview - IDE(Integrated Development Environment) Setting
-- W2 : Data Type
+## Table of Contents
+- Sect1. Python Programming Basics
+- Sect2. Python Packages and Modules
+- Sect3. Data Processing and Analysis
 
 <hr>
 
-## Python Programming Environment
+## Python Develop Environment
 
 <hr>
 
