@@ -16,9 +16,13 @@
 <hr>
 
 ## Table of Contents
-- Python Programming Basics
+- [Python Programming Basics][Sect-A]
 - Python Packages and Modules
 - Data Processing and Analysis
+
+[Sect-A]: ./Sect-A/                  "Go Sect-A"
+[Sect-B]: ./Sect-B/                  "Go Sect-B"
+[Sect-C]: ./Sect-C/                  "Go Sect-C"
 
 <hr>
 
