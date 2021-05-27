@@ -37,7 +37,7 @@
         </td>
         <td width="800">
 <div align="left">
-<b> Latest: Python 3.9.0</b>
+<b> Latest: Python 3.9.5 - May 3, 2021</b>
 <br/><br/>
 - Download : https://www.python.org/downloads/windows/
 <br/>
@@ -63,15 +63,15 @@
         </td>
         <td width="800">
 <div align="left">
-<b> Latest : Python 3.9 version | Release Date: Oct. 5, 2020</b>
+<b> Latest : Python 3.9 version</b>
 <br/><br/>
 - Download : https://www.jetbrains.com/pycharm/download/
 <br/>
-- Version: 2020.3
+- Version: 2021.1.1
 <br/>
-- Build: 203.5981.165
+- Build: 211.7142.13
 <br/>
-- 2 December 2020
+- Release Date: 22 April, 2021
 <br/>
 - Download Community Version 
 </div></td>
