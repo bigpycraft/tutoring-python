@@ -22,6 +22,7 @@
 - [[강의자료]][pyt-02]  [소스코드]  - P02.파이썬설치_및_개발환경 
 - [[강의자료]][pyt-03]  [[소스코드]][code-03]  - P03.프로그래밍_기본        
 - [[강의자료]][pyt-04]  [[소스코드]][code-04]  - P04.데이터형               
+- [[강의자료]][pyt-05]  [[소스코드]][code-05]  - P05.데이터구조               
 
 
 <hr>
@@ -53,7 +54,7 @@
 [code-02]: #                                                   "Go Code-02"
 [code-03]: ./code/PYT_SECT03_rc1.md                            "Go Code-03"
 [code-04]: ./code/PYT_SECT04_rc1.md                            "Go Code-04"
-[code-05]: ./code/PYT_SECT05_rc1.md                            "Go Code-05"
+[code-05]: ./code/PYT_SECT05_rc2.md                            "Go Code-05"
 [code-06]: ./code/PYT_SECT06_rc1.md                            "Go Code-06"
 [code-07]: ./code/PYT_SECT07_rc3.md                            "Go Code-07"
 [code-08]: ./code/PYT_SECT08_rc1.md                            "Go Code-08"
