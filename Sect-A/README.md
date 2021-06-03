@@ -30,6 +30,7 @@
 ## Practice
 
 - [[과제1]][prac-01] - 모양그리기
+- [[과제2]][prac-02] - 환율계산기
 
 
 
@@ -64,6 +65,7 @@
 
 
 [prac-01]: ./practice/과제1_Turtle_모양그리기.pdf              "Go 과제-01"
+[prac-02]: ./practice/과제2_환율계산기.pdf                     "Go 과제-02"
 
 
 <hr>
