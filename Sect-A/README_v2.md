@@ -70,7 +70,8 @@
 
 
 
-[quiz-01]: ./practice/QUIZ01_모양그리기.pdf                    "Go 과제-01"
+[quiz-01]: ./practice/QUIZ01_모양그리기.md                     "Go QUIZ01"
+[quiz-02]: ./practice/QUIZ02_환율계산기.md                     "Go QUIZ02"
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
