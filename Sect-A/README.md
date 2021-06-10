@@ -32,6 +32,7 @@
 
 - [[과제1]][prac-01] - 모양그리기
 - [[과제2]][prac-02] - 환율계산기
+- [[과제3]][prac-03] - 로또번호생성기
 
 
 
@@ -65,9 +66,15 @@
 [code-11]: ./code/PYT_SECT11_rc1.md                            "Go Code-11"
 
 
-[prac-01]: ./practice/과제1_Turtle_모양그리기.pdf              "Go 과제-01"
+[prac-01]: ./practice/과제1_모양그리기.pdf                     "Go 과제-01"
 [prac-02]: ./practice/과제2_환율계산기.pdf                     "Go 과제-02"
+[prac-03]: ./practice/과제3_로또번호생성기.pdf                 "Go 과제-03"
 
+
+
+[quiz-01]: ./practice/QUIZ01_모양그리기.md                     "Go QUIZ01"
+[quiz-02]: ./practice/QUIZ02_환율계산기.md                     "Go QUIZ02"
+[quiz-03]: ./practice/QUIZ03_로또번호생성기.md                 "Go QUIZ03"
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
