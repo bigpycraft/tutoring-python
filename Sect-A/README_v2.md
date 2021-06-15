@@ -24,6 +24,7 @@
 - [[강의자료]][pyt-04]  [[소스코드]][code-04]  - P04.데이터형               
 - [[강의자료]][pyt-05]  [[소스코드]][code-05]  - P05.데이터구조               
 - [[강의자료]][pyt-06]  [[소스코드]][code-06]  - P06.제어문               
+- [[강의자료]][pyt-07]  [[소스코드]][code-07]  - P07.실습프로젝트               
 
 
 <hr>
@@ -43,7 +44,7 @@
 [pyt-04]: ./docu/P04.데이터형.pdf                              "Go Pyt-04"
 [pyt-05]: ./docu/P05.데이터구조.pdf                            "Go Pyt-05"
 [pyt-06]: ./docu/P06.제어문.pdf                                "Go Pyt-06"
-[pyt-07]: ./docu/P07.실습프로젝트_code_p20.pdf                 "Go Pyt-07"
+[pyt-07]: ./docu/P07.P07.실습프로젝트.pdf                      "Go Pyt-07"
 [pyt-071]:./docu/P07.실습프로젝트1.pdf                         "Go Pyt-071"
 [pyt-072]:./docu/P07.실습프로젝트2_code.pdf                    "Go Pyt-072"
 [pyt-08]: ./docu/P08.함수.pdf                                  "Go Pyt-08"
@@ -59,7 +60,7 @@
 [code-04]: ./code/PYT_SECT04_rc1.md                            "Go Code-04"
 [code-05]: ./code/PYT_SECT05_rc2.md                            "Go Code-05"
 [code-06]: ./code/PYT_SECT06_rc1.md                            "Go Code-06"
-[code-07]: ./code/PYT_SECT07_rc3.md                            "Go Code-07"
+[code-07]: ./code/PYT_SECT07_rc0.md                            "Go Code-07"
 [code-08]: ./code/PYT_SECT08_rc1.md                            "Go Code-08"
 [code-09]: ./code/PYT_SECT09_rc3.md                            "Go Code-09"
 [code-10]: ./code/PYT_SECT10_rc1.md                            "Go Code-10"
