@@ -75,6 +75,8 @@
 [prac-03]: ./practice/과제3_로또번호생성기.pdf                 "Go 과제-03"
 [prac-041]:./practice/과제4-1_반복패턴_핵사곤.pdf              "Go 과제-04-1"
 [prac-042]:./practice/과제4-2_복합패턴_옥타곤.pdf              "Go 과제-04-2"
+[prac-05]: ./practice/과제5_도서목록입출력.pdf                 "Go 과제-05"
+[prac-06]: ./practice/과제6_팩토리알출력.pdf                   "Go 과제-06"
 
 
 
@@ -83,6 +85,8 @@
 [quiz-03]: ./practice/QUIZ03_로또번호생성기.md                 "Go QUIZ03"
 [quiz-041]:./practice/QUIZ04-1_반복패턴_핵사곤.md              "Go QUIZ041"
 [quiz-042]:./practice/QUIZ04-2_복합패턴_옥타곤.md              "Go QUIZ042"
+[quiz-05]: ./practice/QUIZ05_도서목록입출력.md                 "Go QUIZ05"
+[quiz-06]: ./practice/QUIZ06_팩토리알출력.md                   "Go QUIZ06"
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
