@@ -41,6 +41,7 @@
 - [[과제6-1]][prac-061] - 팩토리알 출력 (Validation 체크)
 - [[과제6-2]][prac-062] - 팩토리알 출력 (함수 활용)
 - [[과제7]][prac-07] - CSV파일리딩 모듈
+- [[과제8]][prac-08] - 도서목록관리 클래스
 
 
 [pyt-00]: ./docu/P00.파이썬코딩_교육과정.pdf                   "Go Pyt-00"
@@ -82,6 +83,7 @@
 [prac-061]:./practice/과제6_팩토리알출력_일반.pdf              "Go 과제-06-1"
 [prac-062]:./practice/과제6_팩토리알출력_함수.pdf              "Go 과제-06-2"
 [prac-07]: ./practice/과제7_파일리딩_함수.pdf                  "Go 과제-07"
+[prac-08]: ./practice/과제8_도서목록관리_클래스.pdf            "Go 과제-08"
 
 
 
@@ -93,7 +95,8 @@
 [quiz-05]: ./practice/QUIZ05_도서목록입출력.md                 "Go QUIZ05"
 [quiz-061]:./practice/QUIZ06_팩토리알출력_일반.md              "Go QUIZ06-1"
 [quiz-061]:./practice/QUIZ06_팩토리알출력_함수.md              "Go QUIZ06-1"
-[quiz-07]: ./practice/QUIZ07_파일리딩_함수.md                 "Go QUIZ07"
+[quiz-07]: ./practice/QUIZ07_파일리딩_함수.md                  "Go QUIZ07"
+[quiz-08]: ./practice/QUIZ08_도서목록관리_클래스.md            "Go QUIZ08"
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
