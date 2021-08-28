@@ -17,12 +17,14 @@
 
 ## Table of Contents
 - [Python Programming Basics][Sect-A]
+- [Jupyter Notebook Practice][Sect-B]
 - Python Packages and Modules
 - Data Processing and Analysis
 
 [Sect-A]: ./Sect-A/                  "Go Sect-A"
 [Sect-B]: ./Sect-B/                  "Go Sect-B"
 [Sect-C]: ./Sect-C/                  "Go Sect-C"
+[Sect-D]: ./Sect-D/                  "Go Sect-D"
 
 <hr>
 
@@ -96,11 +98,11 @@
         </td>
         <td width="800">
 <div align="left">
-<b> Latest : Version 2020.11 | Release Date: NOV 20, 2020 </b>
+<b> Latest : Version 2021.05 | Release Date: MAY 20, 2021 </b>
 <br/>
 - Python 3.8 version
 <br/>
-- Filename : Anaconda3-2020.11-Windows-x86_64.exe
+- Filename : Anaconda3-2021.05-Windows-x86_64.exe
 <br/>
 - Download : https://www.anaconda.com/distribution/
 <br/>
