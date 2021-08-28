@@ -26,14 +26,14 @@
 - 1-5. [Class & Object                      ][A1052]
 - 1-6. [Exceptions                          ][A1060]
 
-[A1010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A101_Review_DataType.html                      "Go A1010"
-[A1020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A102_Review_DataStructure.html                 "Go A1020"
-[A1031]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A103_Review_Function1_Basic.html               "Go A1031"
-[A1032]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A103_Review_Function2_Extension.html           "Go A1032"
-[A1040]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A104_Lambda_Internal_Functiion.html            "Go A1040"
-[A1051]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A105_Review_Class1_Basic.html                  "Go A1051"
-[A1052]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A105_Review_Class2_OOP.html                    "Go A1052"
-[A1060]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/ent21-hanafin-nlp/blob/master/notebook/html/BPC_A106_Exceptions.html                           "Go A1060"
+[A1010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A101_Review_DataType.html                      "Go A1010"
+[A1020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A102_Review_DataStructure.html                 "Go A1020"
+[A1031]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A103_Review_Function1_Basic.html               "Go A1031"
+[A1032]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A103_Review_Function2_Extension.html           "Go A1032"
+[A1040]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A104_Lambda_Internal_Functiion.html            "Go A1040"
+[A1051]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A105_Review_Class1_Basic.html                  "Go A1051"
+[A1052]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A105_Review_Class2_OOP.html                    "Go A1052"
+[A1060]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A106_Exceptions.html                           "Go A1060"
 
 <hr>
 <marquee><font size=3 color='brown'>The BigpyCraft find the information to design valuable society with Technology & Craft.</font></marquee>
