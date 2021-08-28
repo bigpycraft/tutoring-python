@@ -10,6 +10,7 @@
 
 ## Table of Contents
 - <b>Python Programming Basics</b>
+- Jupyter Notebook Practice
 - Python Packages and Modules
 - Data Processing and Analysis
 
