@@ -18,7 +18,7 @@
 ## Table of Contents
 - [Python Programming Basics][Sect-A]
 - [Jupyter Notebook Practice][Sect-B]
-- Python Packages and Modules
+- [Python Packages and Modules][Sect-C]
 - Data Processing and Analysis
 
 [Sect-A]: ./Sect-A/                  "Go Sect-A"
