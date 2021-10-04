@@ -20,11 +20,11 @@
 
 - 2-1. [FileIO OS-CMD          ][A2020]
 - 2-2. [Module                  ][A2030]
-- 2-3. [DateTIme1              ][A2051]
-- 2-4. [Map, Filter, Reduce    ][A2101]
+- 2-3. [DateTIme               ][A2051]
 <br/><br/>
-- 3-1. [NumPy1                 ][B3100]
-- 3-2. [NumPy2                 ][B3120]
+- 3-1. [Map, Filter, Reduce    ][A2101]
+- 3-2. [NumPy1                 ][B3100]
+- 3-3. [NumPy2                 ][B3120]
 
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
 [A2020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A202_FileIO_OS-CMD.html            "Go A2020"
