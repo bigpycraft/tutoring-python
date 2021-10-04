@@ -24,27 +24,24 @@
 - 2-4. [Map, Filter, Reduce    ][A2101]
 <br/> Q. [MFR Quiz               ][A2113]
 <br/><br/>
-- 2-7. [JSON Handle            ][A2200]
-- 2-8. [Regular Expression     ][A2300]
-<br/><br/>
-- <font color='#CC0000'> [실습문제] 파이썬프로그래밍 실습3 </font> ─────▶ [[클릭]][p-ex3]
-- <font color='#CC0000'> [실습문제] 파이썬프로그래밍 실습4 </font> ─────▶ [[클릭]][p-ex4]
-<br/><br/>
 - 3-1. [NumPy1                 ][B3100]
 - 3-2. [NumPy2                 ][B3120]
 <br/><br/>
-- 4-1. [Pandas1                ][B3200]
-- 4-2. [Pandas2                ][B3220]
-- 4-3. [Pandas3                ][B3230]
-- 4-4. [Pandas4                ][B3240]
+- 4-1 [JSON Handle            ][A2200]
+- 4-2. [Regular Expression     ][A2300]
 <br/><br/>
-- 5-1. [MatplotLib.Pyplot      ][B3300]
+- 5-1. [Pandas1                ][B3200]
+- 5-2. [Pandas2                ][B3220]
+- 5-3. [Pandas3                ][B3230]
+- 5-4. [Pandas4                ][B3240]
+<br/><br/>
+- 6-1. [MatplotLib.Pyplot      ][B3300]
 - <font color='#CC0000'> [실습문제] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3301]
 <br/><br/>
-- 5-2. [Basic Chart            ][B3310]
-- 5-3. [Color & Style          ][B3320]
-- 5-4. [Annotation             ][B3330]
-- 5-5. [Seabron                ][B3340]
+- 6-2. [Basic Chart            ][B3310]
+- 6-3. [Color & Style          ][B3320]
+- 6-4. [Annotation             ][B3330]
+- 6-5. [Seabron                ][B3340]
 
 
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
