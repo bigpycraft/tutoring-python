@@ -23,8 +23,11 @@
 - 2-3. [DateTIme               ][A2052]
 <br/><br/>
 - 3-1. [Map, Filter, Reduce    ][A2101]
+<br/> Q. [MFR Quiz               ][A2113]
 - 3-2. [NumPy1                 ][B3100]
 - 3-3. [NumPy2                 ][B3120]
+<br/><br/>
+- 4-1 [JSON Handle            ][A2200]
 
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
 [A2020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A202_FileIO_OS-CMD.html            "Go A2020"
