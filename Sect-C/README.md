@@ -34,6 +34,14 @@
 - 5-3. [Pandas3                ][B3230]
 - 5-4. [Pandas4                ][B3240]
 <br/><br/>
+- 6-1. [MatplotLib.Pyplot      ][B3300]
+- 6-2. [Basic Chart            ][B3310]
+- 6-3. [Color & Style          ][B3320]
+- 6-4. [Annotation             ][B3330]
+- 6-5. [Seabron                ][B3340]
+<br/> Q. <font color='#CC0000'> [실습문제] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3301]
+<br/><br/>
+
 
 [A2010]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A201_FileIO_Basic.html             "Go A2010"
 [A2020]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A202_FileIO_OS-CMD.html            "Go A2020"
