@@ -18,7 +18,6 @@
 
 ## Data Processing and Analysis
 
-<br/><br/>
 - 7-0. [Kaggle Mission                          ][D4300]
 - 7-1. [Analytical Approach : General           ][D4310]
 - 7-2. [Analytical Approach : Advanced          ][D4324]

@@ -19,7 +19,6 @@
 ## Data Processing and Analysis
 
 - 7-1. [Kaggle Mission                          ][D4300]
-
 <br/><br/>
 - 8-1. [Public Data Potal 1                     ][D4510]
 - 8-2. [Public Data Potal 2                     ][D4520]
