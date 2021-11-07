@@ -18,7 +18,6 @@
 
 ## Data Processing and Analysis
 
-<br/><br/>
 - 7-1. [Kaggle Mission                          ][D4300]
 
 <br/><br/>
