@@ -18,13 +18,33 @@
 
 ## Data Processing and Analysis
 
+
+- 6-1. [Excel File Read & Write    ][D4110]
+- 6-2. [Excel Data Handling        ][D4120]
+- 6-3. [Excel Data Visualization   ][D4130]
 <br/><br/>
-- 7-0. [Kaggle Mission                          ][D4300]
-- 7-1. [Analytical Approach : General           ][D4310]
-- 7-2. [Analytical Approach : Advanced          ][D4324]
+- 7-1. [Create DataBase & Table    ][D4210]
+- 7-2. [Database Data Create       ][D4220]
+- 7-3. [Database Data Read         ][D4230]
+- 7-4. [Database Data Update       ][D4240]
+- 7-5. [Database Data Delete       ][D4250]
 <br/><br/>
-- 8-1. [Public Data Potal 1                     ][D4510]
-- 8-2. [Public Data Potal 2                     ][D4520]
+※ Reference 과제4 
+- (1) 김태웅 [Kaggle Analysis for Titanic ][P4_01]
+- (2) 신은영 [Kaggle Analysis for Bike    ][P4_02]
+<br/><br/>
+- 8-0. [Kaggle Mission                          ][D4300]
+- 8-1. [Analytical Approach : General           ][D4310]
+- 8-2. [Analytical Approach : Advanced          ][D4324]
+<br/><br/>
+- 9-1. [Public Data Potal 1                     ][D4510]
+- 9-2. [Public Data Potal 2                     ][D4520]
+- Quiz.[Public Data Potal 3                     ][D4530]
+- 9-3. [Public Data Potal 3                     ][D4532]
+<br/><br/>
+- 10-1. [Folium for Map                         ][D4600]
+- 10-2. [Seoul Stat 1                           ][D4610]
+- 10-3. [Seoul Stat 2                           ][D4720]
 
 [D4110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_D411_Excel_IO.html                                "Go D4110"
 [D4120]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_D412_Excel_Data_Handle.html                       "Go D4120"
