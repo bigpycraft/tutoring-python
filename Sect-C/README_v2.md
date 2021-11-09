@@ -37,6 +37,7 @@
 <br/><br/>
 - 6-1. [MatplotLib.Pyplot      ][B3300]
 - <font color='#CC0000'> [실습문제] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3301]
+- <font color='#CC0000'> [실습문제] 영화 평점 시각화 실습</font> ─────▶ [[클릭]][B3301] :: [[코드]][B33011]
 <br/><br/>
 - 6-2. [Basic Chart            ][B3310]
 - 6-3. [Color & Style          ][B3320]
@@ -73,6 +74,7 @@
 [B3330]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B333_Matplotlib_Annotattion.html   "Go A3330"
 [B3340]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B334_Matplotlib_Seaborn.html       "Go A3340"
 [B3301]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B335_Matplotlib_Quiz_mission.html  "Go B3301"
+[B33011]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B335_Matplotlib_Quiz.html           "Go B33011"
 
 [p-ex1]: ../practice/P01_파이썬프로그래밍_실습.pdf                     "Go Practice-ex1"
 [p-ex2]: ../practice/P02_파이썬프로그래밍_실습.pdf                     "Go Practice-ex2"

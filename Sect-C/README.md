@@ -72,7 +72,7 @@
 [B3330]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B333_Matplotlib_Annotattion.html   "Go A3330"
 [B3340]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B334_Matplotlib_Seaborn.html       "Go A3340"
 [B3301]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B335_Matplotlib_Quiz_mission.html  "Go B3301"
-[B33011]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B335_Matplotlib_Quiz.html  "Go B33011"
+[B33011]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_B335_Matplotlib_Quiz.html           "Go B33011"
 
 [p-ex1]: ../practice/P01_파이썬프로그래밍_실습.pdf                     "Go Practice-ex1"
 [p-ex2]: ../practice/P02_파이썬프로그래밍_실습.pdf                     "Go Practice-ex2"
