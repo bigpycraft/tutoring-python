@@ -19,9 +19,12 @@
 ## Data Processing and Analysis
 
 - 7-1. [Kaggle Mission                          ][D4300]
+- 7-2. [Analytical Approach : General           ][D4310]
+- 7-3. [Analytical Approach : Advanced          ][D4324]
 <br/><br/>
 - 8-1. [Public Data Potal 1                     ][D4510]
 - 8-2. [Public Data Potal 2                     ][D4520]
+- 8-3. [Public Data Potal - Mission          ][D4530]
 
 [D4110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_D411_Excel_IO.html                                "Go D4110"
 [D4120]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_D412_Excel_Data_Handle.html                       "Go D4120"
