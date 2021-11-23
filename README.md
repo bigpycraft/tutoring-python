@@ -19,7 +19,7 @@
 - [Python Programming Basics][Sect-A]
 - [Jupyter Notebook Practice][Sect-B]
 - [Python Packages and Modules][Sect-C]
-- [Data Processing and Analysis]][Sect-D]
+- [Data Processing and Analysis][Sect-D]
 
 [Sect-A]: ./Sect-A/                  "Go Sect-A"
 [Sect-B]: ./Sect-B/                  "Go Sect-B"
