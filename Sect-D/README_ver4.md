@@ -31,11 +31,11 @@
 - 9-2. [Excel Data Handling        ][D4120]
 - 9-3. [Excel Data Visualization   ][D4130]
 <br/><br/>
-<br/><br/>
 - 10-1. [Folium for Map                         ][D4600]
 - 10-2. [Seoul Stat 1                           ][D4610]
 - 10-3. [Seoul Stat 2                           ][D4720]
 - 10-4. [Regular Expression     ][A2300]
+<br/><br/>
 
 
 [A2300]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A230_RegEx.html                    "Go A2300"
