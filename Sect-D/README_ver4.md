@@ -24,8 +24,21 @@
 <br/><br/>
 - 8-1. [Public Data Potal 1                     ][D4510]
 - 8-2. [Public Data Potal 2                     ][D4520]
-- 8-3. [Public Data Potal - Mission          ][D4530]
+- 8-3. [Public Data Potal 3                     ][D4532]
+- 8-4. [Public Data Potal - Mission          ][D4530]
+<br/><br/>
+- 9-1. [Excel File Read & Write    ][D4110]
+- 9-2. [Excel Data Handling        ][D4120]
+- 9-3. [Excel Data Visualization   ][D4130]
+<br/><br/>
+<br/><br/>
+- 10-1. [Folium for Map                         ][D4600]
+- 10-2. [Seoul Stat 1                           ][D4610]
+- 10-3. [Seoul Stat 2                           ][D4720]
+- 10-4. [Regular Expression     ][A2300]
 
+
+[A2300]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_A230_RegEx.html                    "Go A2300"
 [D4110]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_D411_Excel_IO.html                                "Go D4110"
 [D4120]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_D412_Excel_Data_Handle.html                       "Go D4120"
 [D4130]:  https://htmlpreview.github.io/?https://github.com/bigpycraft/tutoring-python/blob/master/notebook/html/BPC_D413_Excel_Data_Visualize.html                    "Go D4130"
